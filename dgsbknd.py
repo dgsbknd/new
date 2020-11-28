@@ -49,6 +49,11 @@
 
 # git reset命令既可以回退版本，也可以把暂存区的修改回退到工作区
 # git reset HEAD readme.txt
+# git checkout -- readme.txt
+
+# 删除test.txt
+# rm test.txt
+# git commit -m "132"
 
 
 
