@@ -44,6 +44,11 @@
 # 回到最新的版本
 # git reset --hard 1094a//这里不能用HEAD而必须使用 commit id
 
+# 把readme.txt文件在工作区的修改全部撤销。
+# git checkout -- readme.txt
+
+# git reset命令既可以回退版本，也可以把暂存区的修改回退到工作区
+# git reset HEAD readme.txt
 
 
 
