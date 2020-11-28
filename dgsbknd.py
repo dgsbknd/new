@@ -55,7 +55,21 @@
 # rm test.txt
 # git commit -m "132"
 
+# 生成ssh
+ # ssh-keygen
 
+# 删去原有的远程源
+# git remote rm origin
+
+# 添加远程源
+# git remote add origin git@github.com:dgsbknd/new.git
+# git remote add origin git@github.com:dgsbknd/hellowrld.git
+
+# 提交到远程源
+# git branch -M main
+# 第一次
+# git push -u origin main
+# git push origin master
 
 # 使用 git clone 从现有 Git 仓库中拷贝项目
 # git clone
