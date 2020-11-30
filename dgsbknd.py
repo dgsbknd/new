@@ -104,3 +104,21 @@
 
 # 显示当前的 git 配置信息
 # git config
+
+# 标签
+# git log  //获取id标签前10位
+
+# 创建一个叫做 1.0.0 的标签
+# git tag 1.0.0 524c8435dd
+
+# 图形化
+# gitk
+
+# 彩色的 git 输出
+# git config color.ui true
+
+# 显示历史记录时，每个提交的信息只显示一行
+# git config format.pretty oneline
+
+# 交互式添加文件到暂存区
+# git add -i
