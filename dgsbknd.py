@@ -78,5 +78,20 @@
 # 使用 git clone 从现有 Git 仓库中拷贝项目
 # git clone https://github.com/dgsbknd/new.git
 
+# 生成其他分支 feature_x 并转入
+# git checkout -b feature_x
+
+# 切换回主分支：
+# git checkout master
+
+# 再把新建的分支删掉：
+# git branch -d feature_x
+
+# 除非你将分支推送到远端仓库，不然该分支就是 不为他人所见的：
+# git push origin <branch>
+
+
+
+
 # 显示当前的 git 配置信息
 # git config
