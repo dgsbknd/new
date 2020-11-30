@@ -89,12 +89,14 @@
 # 再把新建的分支删掉：
 # git branch -d feature_x
 
-# 除非你将分支推送到远端仓库，不然该分支就是 不为他人所见的：
-# git push origin <branch>
 
 # 更新本地仓库到最新改动
 # git pull
 
+# git merge 
+
+# 查看俩个分支的差异性
+# git diff main feature_x
 
 # 显示当前的 git 配置信息
 # git config
