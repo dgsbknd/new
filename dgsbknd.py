@@ -77,6 +77,8 @@
 
 # 使用 git clone 从现有 Git 仓库中拷贝项目
 # git clone https://github.com/dgsbknd/new.git
+# git clone /path/to/repository
+# git clone username@host:/path/to/repository
 
 # 生成其他分支 feature_x 并转入
 # git checkout -b feature_x
