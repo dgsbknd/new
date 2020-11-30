@@ -19,6 +19,7 @@
 
 # $ mkdir learngit //创建一个名叫learngit的空目录
 # $ cd learngit //把learngit设置为当前目录
+# echo "# 菜鸟教程 Git 测试" >> README.md     # 创建 README.md 文件并写入内容
 # $ pwd //查看当前目录
 
 # 初始化
@@ -66,7 +67,12 @@
 # git mv
 
 # 生成ssh
- # ssh-keygen
+# ssh-keygen
+# ssh-keygen -t rsa -C "youremail@example.com"
+
+# 查看当前配置有哪些远程仓库
+# git remote
+# git remote -v
 
 # 删去原有的远程源
 # git remote rm origin
