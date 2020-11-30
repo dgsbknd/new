@@ -1,6 +1,10 @@
 # Git 创建仓库
-# https://www.runoob.com/git/git-create-repository.html
+# 1、CSDN Git教程(完整)
 # https://blog.csdn.net/weixin_42152081/article/details/80558282?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160635101819724816611948%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=160635101819724816611948&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-1-80558282.first_rank_ecpm_v3_pc_rank_v2&utm_term=git&spm=1018.2118.3001.4449
+# 2、菜鸟git简明指南
+# https://www.runoob.com/manual/git-guide/
+# 3、菜鸟教程
+# https://www.runoob.com/git/git-create-repository.html
 
 
 # 设置名字和Email地址。
