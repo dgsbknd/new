@@ -6,6 +6,8 @@
 # 3、菜鸟教程
 # https://www.runoob.com/git/git-create-repository.html
 
+# 显示当前的 git 配置信息(加“--global”针对所有仓库)
+# git config --global
 
 # 设置名字和Email地址。
 # $ git config --global user.name "Your Name"
@@ -37,6 +39,7 @@
 
 # 查看历史记录
 # git log 
+# git log --oneline //l历史记录简洁版
 # git log --pretty=oneline //一大串数字是 commit id
 
 # 退回到上一个版本
@@ -58,6 +61,9 @@
 # 删除test.txt
 # rm test.txt
 # git commit -m "132"
+
+# 重命名
+# git mv
 
 # 生成ssh
  # ssh-keygen
@@ -82,9 +88,14 @@
 
 # 生成其他分支 feature_x 并转入
 # git checkout -b feature_x
+# 生成分支
+# git branch testing
 
 # 切换回主分支：
 # git checkout master
+
+# 列出分支
+# git branch
 
 # 再把新建的分支删掉：
 # git branch -d feature_x
@@ -101,9 +112,6 @@
 
 # 查看俩个分支的差异性
 # git diff main feature_x
-
-# 显示当前的 git 配置信息
-# git config
 
 # 标签
 # git log  //获取id标签前10位
@@ -122,3 +130,7 @@
 
 # 交互式添加文件到暂存区
 # git add -i
+
+# 从远程获取代码
+# git fetch
+
