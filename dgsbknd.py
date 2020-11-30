@@ -93,7 +93,11 @@
 # 更新本地仓库到最新改动
 # git pull
 
+# 合并其他分支到你的当前分支
 # git merge 
+
+# 手动合并
+# git add <filename>
 
 # 查看俩个分支的差异性
 # git diff main feature_x
