@@ -77,5 +77,5 @@
 # 显示当前的 git 配置信息
 # git config
 
-
-
+# 更新github
+# git clone https://github.com/dgsbknd/new.git
